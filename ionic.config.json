@@ -1,7 +1,7 @@
 {
-  "name": "quiz-client",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
+    "name": "quiz-client",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react"
 }
